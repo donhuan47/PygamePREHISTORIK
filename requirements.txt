@@ -1,0 +1,2 @@
+Список сторнних библиотек:
+pygame ( py -m pip install -U pygame --user  )
